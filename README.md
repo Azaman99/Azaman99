@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthony Nnabuaku
-- 👀 I’m interested in ... Software Development
+- 👀 I’m interested in ... UI/UX, Data Science, Python, Front_End Dev
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... anthonypeterclaver@gmail.com
